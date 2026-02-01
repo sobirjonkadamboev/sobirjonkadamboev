@@ -47,7 +47,7 @@ I love implementing my ideas into real-world solutions and sharing knowledge thr
 
 ![Sobirjon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sobirjonkadamboev&show_icons=true&theme=tokyonight)(https://github.com/sobirjonkadamboev/github-readme-stats-fast)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sobirjonkadamboev&theme=outrun&border_radius=4.5)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=sobirjonkadamboev&theme=outrun)](https://github.com/sobirjonkadamboev/github-readme-stats-fast)
 
 #
 <!--
