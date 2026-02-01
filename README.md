@@ -6,70 +6,46 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samkadamboev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobirjonkadamboev@gmail.com)
 
-<b>Hi, I’m Sobirjon Kadamboev 👋
+<b>Hi, I’m Sobirjon Kadamboev 👋 </b>
 I’m a software developer passionate about building projects, solving problems with code, and exploring new technologies. Outside of programming, I enjoy running and continuously improving my skills and knowledge.
 
 My interests include:
 
-Software Development & Programming: Web apps, automation, and practical solutions.
+<b>Software Development & Programming: </b> Web apps, automation, and practical solutions.
 
-AI & Machine Learning: Experimenting with intelligent applications.
+<b>AI & Machine Learning: </b> Experimenting with intelligent applications.
 
-Self-Development: Learning, reading, and running marathons.
+<b>Self-Development: </b> Learning, reading, and running marathons.
 
-Open Source: Contributing to projects and collaborating with the community.
+<b>Open Source: </b>Contributing to projects and collaborating with the community.
 
-I enjoy transforming ideas into real-world solutions and sharing knowledge through my work.
-</b>
+I love implementing my ideas into real-world solutions and sharing knowledge through my work.
 
-   <p align="left"> 
-      <a href="https://github.com/sobirjonkadamboev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sobirjonkadamboev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/sobirjonkadamboev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sobirjonkadamboev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
 <br />
 
 #
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![SWE or Dev](https://ytcards.demolab.com/?id=bNXqBcm4rvY&title=SWE+or+Dev&lang=en&timestamp=1769094069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36 "SWE or Dev")](https://www.youtube.com/shorts/bNXqBcm4rvY)
-[![Ben Affleck actually knows AI](https://ytcards.demolab.com/?id=7wWrbNjc3SQ&title=Ben+Affleck+actually+knows+AI&lang=en&timestamp=1769008073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=177 "Ben Affleck actually knows AI")](https://www.youtube.com/shorts/7wWrbNjc3SQ)
-[![Regretting Computer Science](https://ytcards.demolab.com/?id=ecV07gkVxUg&title=Regretting+Computer+Science&lang=en&timestamp=1765898031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "Regretting Computer Science")](https://www.youtube.com/shorts/ecV07gkVxUg)
-[![33 CLI Tools You Need to Try](https://ytcards.demolab.com/?id=XhLMS47l8Bw&title=33+CLI+Tools+You+Need+to+Try&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "33 CLI Tools You Need to Try")](https://www.youtube.com/watch?v=XhLMS47l8Bw)
-[![Every Programmer's Favorite Laptop // you can win one](https://ytcards.demolab.com/?id=H3Q-zXz1BpU&title=Every+Programmer%27s+Favorite+Laptop+%2F%2F+you+can+win+one&lang=en&timestamp=1765565103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Every Programmer's Favorite Laptop // you can win one")](https://www.youtube.com/shorts/H3Q-zXz1BpU)
-[![Rust Changed How I Code Forever](https://ytcards.demolab.com/?id=3lvofS5vktc&title=Rust+Changed+How+I+Code+Forever&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "Rust Changed How I Code Forever")](https://www.youtube.com/watch?v=3lvofS5vktc)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats]([![Sobirjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sobirjonkadamboev)](https://github.com/sobirjonkadamboev/github-readme-stats))
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
