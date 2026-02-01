@@ -1,40 +1,69 @@
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://insengnewbie.tistory.com)
-[![Instagram KimCookieYa](https://img.shields.io/badge/KimCookieYa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/KimCookieYa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B9%80-760635241/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:min49590@gmail.com)
+# 🏄‍♂️ Forrest Knight
 
-[Resume](./docs/김민석의%20Resume.pdf) | [Portfolio](https://kimcookieya.notion.site/Portfolio-b30f8a5319d64d1e933130d680703abd?pvs=4) (updated 2024.02.15)
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-## 🕰️ Career
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
 
-| Date              | Career           | Org.  |
-|-------------------|------------------|-------|
-| 2024.07 ~ Current | FE 엔지니어        | (주)센디 |
-| 2023.12 ~ 2024.06 | FE 엔지니어(인턴)   | (주)센디 |
+   <p align="left">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
-## 🗓️ Activity
+---
 
-| Type      | Date                       | Contents                                                                                        | Org.                 |
-|-----------|----------------------------|-------------------------------------------------------------------------------------------------|----------------------|
-| Awards    | 2024.08                    | [XRP Ledger Hackathon Seoul 2024 - (Track 4) 1'st Winner](https://insengnewbie.tistory.com/577) | XRPL Korea           |
-| Awards    | 2024.05                    | [khuthon 2024 - 최우수상](https://insengnewbie.tistory.com/549)                                     | 경희대학교 소프트웨어교육센터      |
-| Awards    | 2023.11                    | [ABB 해커톤 - 우수상](https://insengnewbie.tistory.com/484)                                           | 대구광역시                |
-| Activity  | 2023.09 ~ Expected 2025.02 | 부산대학교 인공지능 동아리, AID                                                                             | Pusan National Univ. |
-| Education | 2023.04 ~ 2023.08          | [크래프톤 정글 2기](https://insengnewbie.tistory.com/424)                                              | Krafton              |
-| Awards    | 2022.11                    | 부산 지역기술 활성화를 위한 블록체인 해커톤 - 우수상                                                                  | Pusan B-Space        |
-| Education | 2022.04 ~ 2022.06          | 부산 지역산업 블록체인 dAPP 개발 과정                                                                         | ICT 이노베이션스퀘어         |
-| Education | 2018.03 ~ Expected 2025.02 | Computer Science and Engineering                                                                | Pusan National Univ. |
+### 🧰 Languages and Tools
 
-## 📂 Projects
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-- 크래프톤 정글 (팀프로젝트) (FE)
-    - 2023.06.29 ~ 2023.08.12
-    - [웹 기반 실시간 대전 보드 게임](https://github.com/KJ2B-HandsUp/client)
-- MailBadara (개인 프로젝트) (풀스택)
-    - 2023.09.27 ~ Current
-    - [부산대학교 학생들을 위한 학과 홈페이지 뉴스레터 구독 서비스](https://github.com/KimCookieYa/PNU_Mail_Badara)
-- 부산대학교 2023년도 후기 졸업과제 - 탈중앙 식별자 및 영지식증명을 활용한 신원증명시스템 구현 (FE)
-    - 2023.12.05 ~ 2023.06.21
-    - [탈중앙 식별자 및 영지식증명을 활용한 신원증명시스템 구현](https://github.com/2024-Circular-Reference/identity-verify-WAS)
+#
 
-![KimCookieYa's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=KimCookieYa&show_icons=true&theme=default)
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![SWE or Dev](https://ytcards.demolab.com/?id=bNXqBcm4rvY&title=SWE+or+Dev&lang=en&timestamp=1769094069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36 "SWE or Dev")](https://www.youtube.com/shorts/bNXqBcm4rvY)
+[![Ben Affleck actually knows AI](https://ytcards.demolab.com/?id=7wWrbNjc3SQ&title=Ben+Affleck+actually+knows+AI&lang=en&timestamp=1769008073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=177 "Ben Affleck actually knows AI")](https://www.youtube.com/shorts/7wWrbNjc3SQ)
+[![Regretting Computer Science](https://ytcards.demolab.com/?id=ecV07gkVxUg&title=Regretting+Computer+Science&lang=en&timestamp=1765898031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "Regretting Computer Science")](https://www.youtube.com/shorts/ecV07gkVxUg)
+[![33 CLI Tools You Need to Try](https://ytcards.demolab.com/?id=XhLMS47l8Bw&title=33+CLI+Tools+You+Need+to+Try&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "33 CLI Tools You Need to Try")](https://www.youtube.com/watch?v=XhLMS47l8Bw)
+[![Every Programmer's Favorite Laptop // you can win one](https://ytcards.demolab.com/?id=H3Q-zXz1BpU&title=Every+Programmer%27s+Favorite+Laptop+%2F%2F+you+can+win+one&lang=en&timestamp=1765565103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Every Programmer's Favorite Laptop // you can win one")](https://www.youtube.com/shorts/H3Q-zXz1BpU)
+[![Rust Changed How I Code Forever](https://ytcards.demolab.com/?id=3lvofS5vktc&title=Rust+Changed+How+I+Code+Forever&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "Rust Changed How I Code Forever")](https://www.youtube.com/watch?v=3lvofS5vktc)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+-->
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
