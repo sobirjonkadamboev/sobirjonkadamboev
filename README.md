@@ -1,8 +1,25 @@
-# 🏄‍♂️ Forrest Knight
+# 👨‍💻 Sobirjon Kadamboev
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Full-Stack Developer | Runaholic`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sobirjon_kadamboev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samkadamboev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sobirjonkadamboev@gmail.com)
+
+Hi, I’m Sobirjon Kadamboev 👋
+I’m a software developer passionate about building projects, solving problems with code, and exploring new technologies. Outside of programming, I enjoy running and continuously improving my skills and knowledge.
+
+My interests include:
+
+Software Development & Programming: Web apps, automation, and practical solutions.
+
+AI & Machine Learning: Experimenting with intelligent applications.
+
+Self-Development: Learning, reading, and running marathons.
+
+Open Source: Contributing to projects and collaborating with the community.
+
+I enjoy transforming ideas into real-world solutions and sharing knowledge through my work.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
