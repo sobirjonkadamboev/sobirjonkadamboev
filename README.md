@@ -4,7 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sobirjon_kadamboev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samkadamboev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sobirjonkadamboev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobirjonkadamboev@gmail.com)
 
 Hi, I’m Sobirjon Kadamboev 👋
 I’m a software developer passionate about building projects, solving problems with code, and exploring new technologies. Outside of programming, I enjoy running and continuously improving my skills and knowledge.
