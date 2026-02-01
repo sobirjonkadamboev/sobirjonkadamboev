@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samkadamboev/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sobirjonkadamboev@gmail.com)
 
-Hi, I’m Sobirjon Kadamboev 👋
+<b>Hi, I’m Sobirjon Kadamboev 👋
 I’m a software developer passionate about building projects, solving problems with code, and exploring new technologies. Outside of programming, I enjoy running and continuously improving my skills and knowledge.
 
 My interests include:
@@ -20,6 +20,7 @@ Self-Development: Learning, reading, and running marathons.
 Open Source: Contributing to projects and collaborating with the community.
 
 I enjoy transforming ideas into real-world solutions and sharing knowledge through my work.
+</b>
 
    <p align="left"> 
       <a href="https://github.com/sobirjonkadamboev?tab=followers">
